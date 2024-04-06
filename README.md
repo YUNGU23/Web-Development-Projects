@@ -8,3 +8,6 @@
 
 - **Samosa Selector App** 
 <img src="./Samosa Selector/demo.gif" >
+
+- **Bet App** 
+<img src="./Bet/demo.gif" >
